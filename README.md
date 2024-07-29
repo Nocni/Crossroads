@@ -9,7 +9,9 @@ This project simulates a crossroads using threads to represent cars and semaphor
 **Dynamic Traffic Light Control**: Adjusts the green light duration based on the average waiting times to find the optimal light cycle.
 
 ## Code Description
+
 **Main Components**
+
 **Semaphore Initialization**:
 
 Semaphores for each direction (semafor_a, semafor_b, semafor_c, semafor_d) and for the intersection points (raskrsnica_a, raskrsnica_b, raskrsnica_c, raskrsnica_d).
